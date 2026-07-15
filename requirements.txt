@@ -32,3 +32,4 @@ vkbottle-types==5.199.99.12
 wrapt==2.1.2
 yarl==1.23.0
 aiogram
+aiosqlite
