@@ -1,0 +1,107 @@
+[08.06.2026 15:07:27] USER:StopaVento COMMAND:/add_admin ARGS:/add_admin - 2
+[08.06.2026 18:46:31] USER:StopaVento COMMAND:/add_admin ARGS:/add_admin @conorbedard_98 1
+[08.06.2026 19:52:36] USER:StopaVento COMMAND:/point ARGS:
+[08.06.2026 19:53:25] USER:StopaVento COMMAND:/point ARGS:@conorbedard_98 -1
+[09.06.2026 16:30:32] USER:StopaVento COMMAND:/add_admin ARGS:/add_admin @conorbedard_98 2
+[09.06.2026 16:30:44] USER:conorbedard_98 COMMAND:/point ARGS:@StopaVento +1
+[09.06.2026 16:30:50] USER:conorbedard_98 COMMAND:/point ARGS:
+[09.06.2026 16:30:52] USER:conorbedard_98 COMMAND:/point ARGS:
+[09.06.2026 16:30:54] USER:conorbedard_98 COMMAND:/point ARGS:
+[09.06.2026 16:31:45] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 16:31:59] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 16:32:07] USER:StopaVento COMMAND:/radm ARGS:
+[09.06.2026 16:32:11] USER:StopaVento COMMAND:/radm ARGS:@conorbedard_98
+[09.06.2026 19:57:09] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 19:58:23] USER:StopaVento COMMAND:/radm ARGS:
+[09.06.2026 19:58:31] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 19:58:53] USER:StopaVento COMMAND:/radm ARGS:
+[09.06.2026 19:58:59] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 19:59:35] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 20:00:35] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 20:00:56] USER:StopaVento COMMAND:/radm ARGS:@conorbedard_98
+[09.06.2026 20:02:01] USER:StopaVento COMMAND:/radm ARGS:
+[09.06.2026 20:02:57] USER:conorbedard_98 COMMAND:/radm ARGS:
+[09.06.2026 20:32:06] USER:StopaVento COMMAND:mute ARGS:target=Connor(7914485634) duration=None reason=1
+[09.06.2026 20:32:26] USER:StopaVento COMMAND:unmute ARGS:target=Connor(7914485634)
+[09.06.2026 20:32:38] USER:StopaVento COMMAND:mute ARGS:target=Connor(7914485634) duration=0:01:00 reason=test
+[09.06.2026 20:36:09] USER:StopaVento COMMAND:lban ARGS:branch=test target=Connor(7914485634) reason=test
+[09.06.2026 20:36:39] USER:StopaVento COMMAND:lunban ARGS:branch=test target=Connor(7914485634)
+[09.06.2026 20:39:23] USER:StopaVento COMMAND:lmute ARGS:branch=test target=Connor(7914485634) duration=0:02:00 reason=test
+[09.06.2026 22:54:47] USER:StopaVento COMMAND:/gban ARGS:
+[09.06.2026 22:55:12] USER:StopaVento COMMAND:/gban ARGS:
+[09.06.2026 22:55:19] USER:StopaVento COMMAND:/gban ARGS:@connorbedard_98
+[09.06.2026 22:55:44] USER:StopaVento COMMAND:/gban ARGS:@conorbedard_98 test
+[09.06.2026 22:56:33] USER:StopaVento COMMAND:/gban ARGS:@conorbedard_98 -
+[09.06.2026 22:57:12] USER:StopaVento COMMAND:kick ARGS:target=Connor(7914485634) reason=ОЧС
+[09.06.2026 22:57:24] USER:StopaVento COMMAND:lkick ARGS:branch=test target=Connor(7914485634) reason=ОЧС
+[09.06.2026 23:00:04] USER:StopaVento COMMAND:/amnistiya ARGS:
+[09.06.2026 23:00:15] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 +
+[09.06.2026 23:01:05] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 -
+[09.06.2026 23:01:29] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 +
+[09.06.2026 23:01:53] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 -
+[09.06.2026 23:02:35] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 +
+[10.06.2026 23:09:34] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 -
+[10.06.2026 23:09:46] USER:StopaVento COMMAND:/gban ARGS:@conorbedard_98 -
+[10.06.2026 23:10:45] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 +
+[10.06.2026 23:11:12] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 -
+[10.06.2026 23:11:54] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 +
+[11.06.2026 00:19:21] USER:StopaVento COMMAND:start ARGS:
+[13.06.2026 22:44:30] USER:StopaVento COMMAND:start ARGS:
+[21.06.2026 23:13:29] USER:StopaVento COMMAND:start ARGS:
+[21.06.2026 23:13:53] USER:StopaVento COMMAND:/add_admin ARGS:/add_admin @kekevari 3
+[21.06.2026 23:17:51] USER:StopaVento COMMAND:/add_admin ARGS:/add_admin @avalonemine 3
+[22.06.2026 02:30:45] USER:StopaVento COMMAND:lban ARGS:branch=СТ.АДМ target=5059770134(5059770134) reason=ЧС АДМ 21.06.2026
+[22.06.2026 02:36:35] USER:StopaVento COMMAND:ban ARGS:target=5059770134(5059770134) reason=LOCAL BAN
+[22.06.2026 02:37:24] USER:StopaVento COMMAND:ban ARGS:target=5059770134(5059770134) reason=LOCAL BAN
+[23.06.2026 21:42:19] USER:kekevari COMMAND:start ARGS:
+[23.06.2026 22:08:03] USER:StopaVento COMMAND:ban ARGS:target=Connor(7914485634) reason=test
+[23.06.2026 22:08:41] USER:StopaVento COMMAND:kick ARGS:target=Connor(7914485634) reason=—
+[23.06.2026 22:11:41] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 -
+[23.06.2026 22:48:15] USER:kekevari COMMAND:kick ARGS:target=Стопа Венто(950922970) reason=—
+[23.06.2026 22:52:22] USER:StopaVento COMMAND:/gban ARGS:@kur0rtnik Слив адм инф, попытка слива дс|by Forman
+[23.06.2026 23:03:01] USER:StopaVento COMMAND:/gban ARGS:@kur0rtnik Слив адм инф, попытка слива дс|by Forman
+[23.06.2026 23:09:29] USER:StopaVento COMMAND:/point ARGS:
+[23.06.2026 23:09:56] USER:StopaVento COMMAND:/point ARGS:@emrickoff +1 good work
+[24.06.2026 19:15:30] USER:StopaVento COMMAND:/amnistiya ARGS:
+[24.06.2026 19:15:38] USER:StopaVento COMMAND:/amnistiya ARGS:@connorbedard_98 +
+[24.06.2026 19:15:54] USER:StopaVento COMMAND:/amnistiya ARGS:@conorbedard_98 +
+[24.06.2026 19:16:21] USER:StopaVento COMMAND:unban ARGS:target=Connor(7914485634) reason=—
+[24.06.2026 19:16:54] USER:StopaVento COMMAND:lunban ARGS:branch=test target=Connor(7914485634)
+[24.06.2026 19:20:31] USER:StopaVento COMMAND:unban ARGS:target=Connor(7914485634) reason=—
+[24.06.2026 19:51:14] USER:emrickoff COMMAND:start ARGS:
+[24.06.2026 19:51:29] USER:StopaVento COMMAND:/add_admin ARGS:/add_admin @emrickoff 3
+[24.06.2026 19:53:52] USER:emrickoff COMMAND:start ARGS:
+[24.06.2026 19:59:24] USER:elickoff COMMAND:start ARGS:
+[24.06.2026 19:59:45] USER:elickoff COMMAND:/radm ARGS:
+[24.06.2026 20:02:10] USER:emrickoff COMMAND:mute ARGS:target=physical account(8632861028) duration=None reason=@user 5m
+[24.06.2026 20:02:29] USER:emrickoff COMMAND:unmute ARGS:target=physical account(8632861028)
+[24.06.2026 20:02:38] USER:emrickoff COMMAND:/point ARGS:@user +1
+[24.06.2026 20:02:47] USER:emrickoff COMMAND:/point ARGS:@user +5
+[24.06.2026 20:02:56] USER:emrickoff COMMAND:/point ARGS:@user 5
+[24.06.2026 20:03:13] USER:StopaVento COMMAND:/point ARGS:
+[24.06.2026 20:04:50] USER:emrickoff COMMAND:/point ARGS:
+[24.06.2026 20:05:08] USER:emrickoff COMMAND:/point ARGS:@elickoff
+[24.06.2026 20:05:19] USER:emrickoff COMMAND:/point ARGS:@elickoff +5
+[24.06.2026 20:05:51] USER:emrickoff COMMAND:/gban ARGS:@user [причина]
+[24.06.2026 20:06:00] USER:emrickoff COMMAND:/gban ARGS:@elickoff
+[24.06.2026 20:07:02] USER:emrickoff COMMAND:/radm ARGS:@user
+[24.06.2026 20:07:11] USER:emrickoff COMMAND:/radm ARGS:@StopaVento
+[24.06.2026 20:07:17] USER:emrickoff COMMAND:/amnistiya ARGS:@user +|-
+[24.06.2026 20:07:26] USER:emrickoff COMMAND:/amnistiya ARGS:@StopaVento  +
+[24.06.2026 20:08:21] USER:emrickoff COMMAND:/amnistiya ARGS:@elickoff +
+[24.06.2026 20:09:29] USER:StopaVento COMMAND:kick ARGS:target=𝗩𝗮𝗹𝘀𝗶𝗸𝘅(2049512428) reason=-
+[24.06.2026 20:09:34] USER:StopaVento COMMAND:kick ARGS:target=physical account(8632861028) reason=-
+[01.07.2026 15:07:23] USER:StopaVento COMMAND:/gban ARGS:
+[01.07.2026 15:09:31] USER:StopaVento COMMAND:/gban ARGS:@kirieshki1281 Оскорбление проекта\Руководства
+[01.07.2026 15:11:40] USER:StopaVento COMMAND:/gban ARGS:@kirieshki1281 Оскорбление проекта\Руководства
+[01.07.2026 15:12:18] USER:StopaVento COMMAND:/gban ARGS:5059770134 Оскорбление проекта\Руководства
+[03.07.2026 13:08:49] USER:StopaVento COMMAND:/sync ARGS:chat=-1004401625237 synced=6
+[03.07.2026 13:12:13] USER:StopaVento COMMAND:/mt ARGS:mode==0 pm=True targets=0 failed=4
+[03.07.2026 15:59:44] USER:PHHD2112 COMMAND:start ARGS:
+[03.07.2026 15:59:45] USER:exxese COMMAND:start ARGS:
+[03.07.2026 16:06:52] USER:PavelPyrov COMMAND:start ARGS:
+[05.07.2026 00:25:37] USER:StopaVento COMMAND:/mt ARGS:mode==0 pm=True targets=3 failed=2
+[06.07.2026 16:24:43] USER:avalonemine COMMAND:start ARGS:
+[06.07.2026 16:25:50] USER:StopaVento COMMAND:ban ARGS:target=улитка(6005161791) reason=30 уход с поста без уведомления ст.администрации
+[11.07.2026 13:05:40] USER:StopaVento COMMAND:/point ARGS:
+[11.07.2026 13:06:01] USER:StopaVento COMMAND:/point ARGS:@exxese +1 Good work

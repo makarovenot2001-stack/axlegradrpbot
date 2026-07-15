@@ -1,0 +1,112 @@
+[08.06.2026 15:07:27] ADMIN:StopaVento ACTION:ADD_ADMIN TARGET:conorbedard_98 DETAILS:LEVEL=2
+[08.06.2026 18:38:34] ADMIN:conorbedard_98 ACTION:WARN TARGET:StopaVento DETAILS:-
+[08.06.2026 18:38:54] ADMIN:conorbedard_98 ACTION:WARN TARGET:StopaVento DETAILS:-
+[08.06.2026 18:39:01] ADMIN:conorbedard_98 ACTION:WARN TARGET:StopaVento DETAILS:-
+[08.06.2026 18:39:01] ADMIN:conorbedard_98 ACTION:AUTO_BAN_BY_WARNS TARGET:StopaVento DETAILS:3 активных варна
+[08.06.2026 18:46:24] ADMIN:StopaVento ACTION:DEL_ADMIN TARGET:conorbedard_98 DETAILS:
+[08.06.2026 18:46:31] ADMIN:StopaVento ACTION:ADD_ADMIN TARGET:conorbedard_98 DETAILS:LEVEL=1
+[08.06.2026 19:19:31] ADMIN:StopaVento ACTION:WARN TARGET:conorbedard_98 DETAILS:Причина не указана
+[08.06.2026 19:21:18] ADMIN:StopaVento ACTION:WARN TARGET:conorbedard_98 DETAILS:-
+[08.06.2026 19:21:35] ADMIN:StopaVento ACTION:WARN TARGET:conorbedard_98 DETAILS:Причина не указана
+[08.06.2026 19:21:50] ADMIN:StopaVento ACTION:WARN TARGET:conorbedard_98 DETAILS:Причина не указана
+[08.06.2026 19:53:25] ADMIN:StopaVento ACTION:POINT_SUB TARGET:conorbedard_98 DETAILS:Reason not specified
+[08.06.2026 20:16:07] ADMIN:StopaVento ACTION:WARN TARGET:conorbedard_98 DETAILS:Причина не указана
+[08.06.2026 20:16:07] ADMIN:StopaVento ACTION:AUTO_BAN_BY_WARNS TARGET:conorbedard_98 DETAILS:6 активных предупреждений (3 выговора)
+[08.06.2026 20:19:14] ADMIN:StopaVento ACTION:UNWARN TARGET:conorbedard_98 DETAILS:Снято предупреждений: 7
+[09.06.2026 16:30:32] ADMIN:StopaVento ACTION:ADD_ADMIN TARGET:conorbedard_98 DETAILS:LEVEL=2
+[09.06.2026 16:31:35] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:-
+[09.06.2026 16:31:37] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:-
+[09.06.2026 16:31:40] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:-
+[09.06.2026 16:31:40] [ANTI_DRAIN] conorbedard_98 Анти-слив: 3 действий за 60 сек (последнее: WARN)
+[09.06.2026 16:32:11] ADMIN:StopaVento ACTION:RADM_FORCE TARGET:conorbedard_98 DETAILS:Принудительное восстановление, уровень 2
+[09.06.2026 19:56:35] ADMIN:conorbedard_98 ACTION:UNWARN TARGET:Igoryn_krutoI DETAILS:Снято предупреждений: 3
+[09.06.2026 19:56:58] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:тест
+[09.06.2026 19:56:59] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:тест
+[09.06.2026 19:57:00] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:тест
+[09.06.2026 19:57:00] [ANTI_DRAIN] conorbedard_98 Анти-слив: 3 действий за 60 сек (последнее: WARN)
+[09.06.2026 19:57:39] ADMIN:950922970 ACTION:RADM_GRANTED TARGET:conorbedard_98 DETAILS:Уровень восстановлен: 2
+[09.06.2026 19:58:38] ADMIN:950922970 ACTION:RADM_GRANTED TARGET:conorbedard_98 DETAILS:Уровень восстановлен: 2
+[09.06.2026 19:59:10] ADMIN:950922970 ACTION:RADM_DENIED TARGET:conorbedard_98 DETAILS:Отказано. За: 0, против: 1
+[09.06.2026 20:00:01] ADMIN:conorbedard_98 ACTION:UNWARN TARGET:Igoryn_krutoI DETAILS:Снято предупреждений: 3
+[09.06.2026 20:00:03] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:тест
+[09.06.2026 20:00:04] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:тест
+[09.06.2026 20:00:04] ADMIN:conorbedard_98 ACTION:WARN TARGET:Igoryn_krutoI DETAILS:тест
+[09.06.2026 20:00:04] [ANTI_DRAIN] conorbedard_98 Анти-слив: 3 действий за 60 сек (последнее: WARN)
+[09.06.2026 20:00:43] ADMIN:950922970 ACTION:RADM_DENIED TARGET:conorbedard_98 DETAILS:Отказано. За: 0, против: 1
+[09.06.2026 20:00:56] ADMIN:StopaVento ACTION:RADM_FORCE TARGET:conorbedard_98 DETAILS:Принудительное восстановление, уровень 2
+[09.06.2026 20:02:13] ADMIN:vote ACTION:RADM_GRANTED TARGET:StopaVento DETAILS:Уровень восстановлен: 3
+[09.06.2026 20:11:49] ADMIN:StopaVento ACTION:BRANCH_CREATE TARGET:test DETAILS:branch_id=1
+[09.06.2026 20:16:32] ADMIN:StopaVento ACTION:BRANCH_ADD_CHAT TARGET:test DETAILS:chat_id=-1002463360670 (Тест бота лол)
+[09.06.2026 20:32:07] ADMIN:StopaVento ACTION:MUTE TARGET:Connor DETAILS:chat=-1002463360670 mute_id=1 until=None reason=1
+[09.06.2026 20:32:26] ADMIN:StopaVento ACTION:UNMUTE TARGET:Connor DETAILS:chat=-1002463360670 reason=—
+[09.06.2026 20:32:38] ADMIN:StopaVento ACTION:MUTE TARGET:Connor DETAILS:chat=-1002463360670 mute_id=2 until=2026-06-09 13:33:38.796961+00:00 reason=test
+[09.06.2026 20:33:56] ADMIN:StopaVento ACTION:BRANCH_ADD_CHAT TARGET:test DETAILS:chat_id=-1002392924904 (бот тест /greeting)
+[09.06.2026 20:36:10] ADMIN:StopaVento ACTION:LBAN TARGET:Connor DETAILS:branch=test chat=-1002463360670 ban_id=1 reason=test
+[09.06.2026 20:36:10] ADMIN:StopaVento ACTION:LBAN TARGET:Connor DETAILS:branch=test chat=-1002392924904 ban_id=2 reason=test
+[09.06.2026 20:36:40] ADMIN:StopaVento ACTION:LUNBAN TARGET:Connor DETAILS:branch=test chat=-1002463360670
+[09.06.2026 20:36:40] ADMIN:StopaVento ACTION:LUNBAN TARGET:Connor DETAILS:branch=test chat=-1002392924904
+[09.06.2026 20:39:24] ADMIN:StopaVento ACTION:LMUTE TARGET:Connor DETAILS:branch=test chat=-1002463360670 mute_id=3 until=2026-06-09 13:41:23.878058+00:00 reason=test
+[09.06.2026 20:39:24] ADMIN:StopaVento ACTION:LMUTE TARGET:Connor DETAILS:branch=test chat=-1002392924904 mute_id=4 until=2026-06-09 13:41:23.878058+00:00 reason=test
+[09.06.2026 22:55:44] ADMIN:StopaVento ACTION:GBAN TARGET:conorbedard_98 DETAILS:test | чатов: 0/0
+[09.06.2026 22:57:12] ADMIN:StopaVento ACTION:KICK TARGET:Connor DETAILS:chat=-1002463360670 reason=ОЧС
+[09.06.2026 22:57:26] ADMIN:StopaVento ACTION:LKICK TARGET:Connor DETAILS:branch=test ok=2 fail=0 reason=ОЧС
+[09.06.2026 23:00:15] ADMIN:StopaVento ACTION:AMNESTY_ON TARGET:conorbedard_98 DETAILS:Амнистия включена
+[09.06.2026 23:01:05] ADMIN:StopaVento ACTION:AMNESTY_OFF TARGET:conorbedard_98 DETAILS:Амнистия выключена
+[09.06.2026 23:01:29] ADMIN:StopaVento ACTION:AMNESTY_ON TARGET:conorbedard_98 DETAILS:Амнистия включена
+[09.06.2026 23:01:53] ADMIN:StopaVento ACTION:AMNESTY_OFF TARGET:conorbedard_98 DETAILS:Амнистия выключена
+[09.06.2026 23:02:35] ADMIN:StopaVento ACTION:AMNESTY_ON TARGET:conorbedard_98 DETAILS:Амнистия включена
+[10.06.2026 23:09:47] ADMIN:StopaVento ACTION:GBAN TARGET:conorbedard_98 DETAILS:- | чатов: 2/2
+[10.06.2026 23:10:45] ADMIN:StopaVento ACTION:AMNESTY_ON TARGET:conorbedard_98 DETAILS:Амнистия включена
+[10.06.2026 23:11:14] ADMIN:StopaVento ACTION:AMNESTY_OFF TARGET:conorbedard_98 DETAILS:Амнистия выключена
+[10.06.2026 23:11:55] ADMIN:StopaVento ACTION:AMNESTY_ON TARGET:conorbedard_98 DETAILS:Амнистия включена
+[21.06.2026 23:13:53] ADMIN:StopaVento ACTION:ADD_ADMIN TARGET:kekevari DETAILS:LEVEL=3
+[21.06.2026 23:16:24] ADMIN:StopaVento ACTION:WARN TARGET:emrickoff DETAILS:Неадекватное поведение | by Forman
+[21.06.2026 23:17:51] ADMIN:StopaVento ACTION:ADD_ADMIN TARGET:avalonemine DETAILS:LEVEL=3
+[21.06.2026 23:32:09] ADMIN:StopaVento ACTION:BRANCH_CREATE TARGET:адм DETAILS:branch_id=2
+[21.06.2026 23:32:58] ADMIN:StopaVento ACTION:BRANCH_ADD_CHAT TARGET:адм DETAILS:chat_id=-1003843358865 (Администрация | Avalon)
+[22.06.2026 02:28:56] ADMIN:StopaVento ACTION:BRANCH_ADD_CHAT TARGET:адм DETAILS:chat_id=-1004401625237 (Хелперы | Avalon)
+[22.06.2026 02:29:10] ADMIN:StopaVento ACTION:BRANCH_CREATE TARGET:СТ.АДМ DETAILS:branch_id=3
+[22.06.2026 02:29:21] ADMIN:StopaVento ACTION:BRANCH_ADD_CHAT TARGET:СТ.АДМ DETAILS:chat_id=-1004460263721 (Старший персонал | Avalon)
+[23.06.2026 22:08:03] ADMIN:StopaVento ACTION:BAN TARGET:Connor DETAILS:chat=-1004460263721 ban_id=3 reason=test
+[23.06.2026 22:08:42] ADMIN:StopaVento ACTION:KICK TARGET:Connor DETAILS:chat=-1004460263721 reason=—
+[23.06.2026 22:11:42] ADMIN:StopaVento ACTION:AMNESTY_OFF TARGET:conorbedard_98 DETAILS:Амнистия выключена
+[23.06.2026 23:03:02] ADMIN:StopaVento ACTION:GBAN TARGET:kur0rtnik DETAILS:Слив адм инф, попытка слива дс|by Forman | чатов: 0/4
+[23.06.2026 23:09:56] ADMIN:StopaVento ACTION:POINT_ADD TARGET:emrickoff DETAILS:good work
+[24.06.2026 18:42:17] ADMIN:StopaVento ACTION:COMMENT_ADD TARGET:8228992694 DETAILS:#1: Неустойка на посту хелпера | by Forman
+[24.06.2026 18:42:34] ADMIN:StopaVento ACTION:COMMENT_ADD TARGET:1971112605 DETAILS:#2: Запрет на адм (Старое) | by Forman
+[24.06.2026 19:15:55] ADMIN:StopaVento ACTION:AMNESTY_ON TARGET:conorbedard_98 DETAILS:Амнистия включена
+[24.06.2026 19:16:21] ADMIN:StopaVento ACTION:UNBAN TARGET:Connor DETAILS:chat=-1002463360670 reason=—
+[24.06.2026 19:16:54] ADMIN:StopaVento ACTION:LUNBAN TARGET:Connor DETAILS:branch=test chat=-1002463360670
+[24.06.2026 19:16:54] ADMIN:StopaVento ACTION:LUNBAN TARGET:Connor DETAILS:branch=test chat=-1002392924904
+[24.06.2026 19:20:32] ADMIN:StopaVento ACTION:UNBAN TARGET:Connor DETAILS:chat=-1002463360670 reason=—
+[24.06.2026 19:51:29] ADMIN:StopaVento ACTION:ADD_ADMIN TARGET:emrickoff DETAILS:LEVEL=3
+[24.06.2026 20:00:58] ADMIN:emrickoff ACTION:WARN TARGET:elickoff DETAILS:5.1
+[24.06.2026 20:01:09] ADMIN:emrickoff ACTION:UNWARN TARGET:elickoff DETAILS:Снято предупреждений: 1
+[24.06.2026 20:02:10] ADMIN:emrickoff ACTION:MUTE TARGET:physical account DETAILS:chat=-1002463360670 mute_id=5 until=None reason=@user 5m
+[24.06.2026 20:02:29] ADMIN:emrickoff ACTION:UNMUTE TARGET:physical account DETAILS:chat=-1002463360670 reason=@user
+[24.06.2026 20:05:19] ADMIN:emrickoff ACTION:POINT_ADD TARGET:elickoff DETAILS:Причина не указана
+[24.06.2026 20:06:01] ADMIN:emrickoff ACTION:GBAN TARGET:elickoff DETAILS:Причина не указана | чатов: 4/4
+[24.06.2026 20:07:11] ADMIN:emrickoff ACTION:RADM_FORCE TARGET:StopaVento DETAILS:Принудительное восстановление, уровень 3
+[24.06.2026 20:08:21] ADMIN:emrickoff ACTION:AMNESTY_ON TARGET:elickoff DETAILS:Амнистия включена
+[24.06.2026 20:09:19] ADMIN:StopaVento ACTION:DEL_ADMIN TARGET:emrickoff DETAILS:
+[24.06.2026 20:09:29] ADMIN:StopaVento ACTION:KICK TARGET:𝗩𝗮𝗹𝘀𝗶𝗸𝘅 DETAILS:chat=-1002463360670 reason=-
+[24.06.2026 20:09:34] ADMIN:StopaVento ACTION:KICK TARGET:physical account DETAILS:chat=-1002463360670 reason=-
+[24.06.2026 20:10:41] ADMIN:StopaVento ACTION:WARN TARGET:emrickoff DETAILS:отработка
+[24.06.2026 20:11:24] ADMIN:StopaVento ACTION:UNWARN TARGET:emrickoff DETAILS:Снято предупреждений: 2
+[01.07.2026 15:12:18] ADMIN:StopaVento ACTION:GBAN TARGET:5059770134 DETAILS:Оскорбление проекта\Руководства | чатов: 4/4
+[03.07.2026 16:00:39] ADMIN:StopaVento ACTION:WARN TARGET:PavelPyrov DETAILS:Одолжение
+[05.07.2026 00:11:15] ADMIN:StopaVento ACTION:WARN TARGET:PavelPyrov DETAILS:За убежденность, что его царское величество не обязано приходить во время
+[05.07.2026 00:11:20] ADMIN:StopaVento ACTION:WARN TARGET:Nikita_3367 DETAILS:За убежденность, что его царское величество не обязано приходить во время
+[05.07.2026 00:11:24] ADMIN:StopaVento ACTION:WARN TARGET:Cmetanacka DETAILS:За убежденность, что его царское величество не обязано приходить во время
+[05.07.2026 00:11:28] ADMIN:StopaVento ACTION:WARN TARGET:exxese DETAILS:За убежденность, что его царское величество не обязано приходить во время
+[05.07.2026 00:11:33] ADMIN:StopaVento ACTION:WARN TARGET:Barcelona5597 DETAILS:За убежденность, что его царское величество не обязано приходить во время
+[05.07.2026 00:12:39] ADMIN:StopaVento ACTION:UNWARN TARGET:exxese DETAILS:Снято предупреждений: 1
+[06.07.2026 16:25:50] ADMIN:StopaVento ACTION:BAN TARGET:улитка DETAILS:chat=-1004401625237 ban_id=4 reason=30 уход с поста без уведомления ст.администрации
+[06.07.2026 16:27:16] ADMIN:StopaVento ACTION:COMMENT_ADD TARGET:Nikita_3367 DETAILS:#3: - Снят без возможности на восстановление
+[06.07.2026 16:27:38] ADMIN:StopaVento ACTION:COMMENT_ADD TARGET:Barcelona5597 DETAILS:#4: - Снят без возможности на восстановление
+[06.07.2026 16:29:01] ADMIN:StopaVento ACTION:COMMENT_ADD TARGET:PavelPyrov DETAILS:#5: Уход с поста без уведомления СТ.адм, не через /kick. Халатное отношение к должности
+[06.07.2026 16:30:22] ADMIN:StopaVento ACTION:COMMENT_DEL TARGET:— DETAILS:#4
+[06.07.2026 16:30:29] ADMIN:StopaVento ACTION:COMMENT_DEL TARGET:— DETAILS:#3
+[06.07.2026 16:31:14] ADMIN:StopaVento ACTION:COMMENT_ADD TARGET:Nikita_3367 DETAILS:#6: Халатное отношение к должности
+[06.07.2026 16:31:17] ADMIN:StopaVento ACTION:COMMENT_ADD TARGET:Barcelona5597 DETAILS:#7: Халатное отношение к должности
+[11.07.2026 13:06:01] ADMIN:StopaVento ACTION:POINT_ADD TARGET:exxese DETAILS:Good work
