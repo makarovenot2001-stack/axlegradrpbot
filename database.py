@@ -782,3 +782,4 @@ async def get_gban(user_id: int):
             FROM gbans WHERE user_id = ?
         """, (user_id,))
         return await cursor.fetchone()
+        
